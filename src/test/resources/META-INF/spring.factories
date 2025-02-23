@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = \
+    com.example.cookbook.app.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.example.cookbook.app.\
+    config.RedisTestContainersSpringContextCustomizerFactory
